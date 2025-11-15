@@ -1,0 +1,10 @@
+Flask
+gunicorn
+pandas
+numpy
+joblib
+folium
+geopandas
+shapely
+pyproj
+fiona
